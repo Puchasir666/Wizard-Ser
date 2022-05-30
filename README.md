@@ -80,7 +80,7 @@ Click WA logo to Join Support Group 👇
 ----|
    `Base, Bug Fixes, Modules`
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+  [![Ajmal](https://i.imgur.com/sMu1Y9h.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
