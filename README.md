@@ -79,8 +79,8 @@ Click WA logo to Join Support Group 👇
   [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
 ----|
    `Base, Bug Fixes, Modules`
-
-  [![Ajmal](https://i.imgur.com/sMu1Y9h.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+G
+  [![Ajmal](https://i.imgur.com/sMu1Y9h.jpeg)](https://github.com/Ajmal-Achu)[`Puchasir`](https://github.com/Ajmal-Achu)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
